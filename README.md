@@ -23,7 +23,7 @@ This package contains a set of systems that serve as a game-agnostic foundation 
 
 Add the following to your `manifest.json`:
 ```json
-"com.jimothy.junitysystems": "git+https://github.com/itsJimothy/Unity-Systems.git"
+"io.jimothy.junitysystems": "git+https://github.com/itsJimothy/Unity-Systems.git"
 ```
 
 Or import via Unity Package Manager with the following URL:
